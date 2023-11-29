@@ -1,0 +1,16 @@
+body{
+    background-color: black;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+}
+.container{
+    margin-top: 8rem;
+}
+.container button {
+    margin-right: 2rem;
+    padding: 0.5rem 1rem;
+    border-radius: 0.5rem;
+    border: none;
+    font-weight: bold;
+}
